@@ -1,0 +1,36 @@
+.App {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  border: 1px solid black;
+}
+.body {
+  margin-left: 70px;
+  border: 1px solid black;
+  background-color: red;
+}
+.search {
+  border: 1px solid #1c76d2;
+  width: 200px;
+}
+.detailsContainer {
+  width: 250px;
+  border: 1px solid #1c76d2;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.titleBar {
+  height: 70px;
+  background-color: #1c76d2;
+}
+.titleBar h1 {
+  color: white;
+}
